@@ -74,13 +74,22 @@ Most tracking SDKs are expensive, closed, or break on newer Android versions. Th
 
 Pay once to get access to the complete private repository. Choose the option that matches your location.
 
-### 🌎 Option A: International developers (outside India)
+### 🌎 Option A: International developers (outside India), via GitHub Sponsors
 
-Pay with any international credit card, debit card, or PayPal.
+Pay securely through GitHub Sponsors with any credit card, debit card, or PayPal.
 
-👉 **[Purchase via Gumroad ($39 USD)](YOUR_GUMROAD_LINK)**
+👉 **[Sponsor on GitHub: one-time $39 USD](https://github.com/sponsors/126punith)**
 
-*Enter your GitHub username at checkout. You'll be added to the private repository within 24 hours.*
+> **Important:** choose the **One-time** tab and select the **$39** tier. Do **not** pick a monthly sponsorship. This is a single payment, not a subscription.
+
+**How access works**
+
+1. Open the link above, switch to **One-time**, and complete the **$39 USD** sponsorship.
+2. I personally confirm that your sponsorship and payment have come through.
+3. I then add your GitHub account as a collaborator to the private repository, usually within 24 hours.
+4. Accept the invite from your email or from [github.com/notifications](https://github.com/notifications).
+
+*No need to send your username, because GitHub shows me which account sponsored. If you sponsored from a different account than the one you want access on, email [punithm300@gmail.com](mailto:punithm300@gmail.com).*
 
 ### 🇮🇳 Option B: Indian developers (UPI / GPay)
 
@@ -100,7 +109,7 @@ Pay directly via UPI: **₹3,000 INR**.
 ## FAQ
 
 **Is this a subscription?**
-No. It's a one-time payment with lifetime access to the repository and its updates.
+No. It's a one-time payment with lifetime access to the repository and its updates. On GitHub Sponsors, make sure you pick the one-time $39 tier, not a monthly one.
 
 **Can I use it in commercial apps?**
 Yes. You can use it in personal and commercial projects.
@@ -112,7 +121,7 @@ No. Redistributing, reselling, or publishing the source code is not allowed.
 The current release targets Android. Email me if you need iOS.
 
 **I paid but haven't got access yet.**
-Email [punithm300@gmail.com](mailto:punithm300@gmail.com) with your payment details and GitHub username.
+Email [punithm300@gmail.com](mailto:punithm300@gmail.com) with your GitHub username and a Sponsors receipt or UPI screenshot.
 
 ---
 
