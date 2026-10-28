@@ -51,7 +51,12 @@ Most tracking SDKs are expensive, closed, or break on newer Android versions. Th
 
 ## Demo
 
-> Demo video coming soon.
+<p align="center">
+  <a href="assets/demo.mp4">
+    <img src="assets/demo-preview.gif" alt="Background location tracking demo" width="320" />
+  </a>
+</p>
+<p align="center"><a href="assets/demo.mp4"><b>Watch the full demo video (MP4)</b></a></p>
 
 ---
 
