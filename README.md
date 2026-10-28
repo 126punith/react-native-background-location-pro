@@ -118,4 +118,35 @@ Email [punithm300@gmail.com](mailto:punithm300@gmail.com) with your payment deta
 
 ## License
 
-Commercial license. A purchase grants one buyer the right to use the code in their own projects. Redistributing or reselling it is prohibited. © Punith Manthri. All rights reserved.
+### Commercial Source License Agreement
+
+Copyright (c) 2026 Punith Manthri. All rights reserved.
+
+By purchasing, downloading, or accessing the source code of **React Native Background Location Pro** (the "Software"), you (the "Licensee") agree to be bound by the terms and conditions of this Commercial Source License Agreement.
+
+#### 1. Grant of License
+
+Subject to a valid one-time payment, the Licensor (Punith Manthri) grants the Licensee a perpetual, non-exclusive, worldwide, non-transferable license to:
+
+- Use, modify, and integrate the Software source code into personal projects.
+- Use, modify, and integrate the Software source code into commercial/production applications owned by the Licensee or built for a single corporate client.
+
+#### 2. Restrictions & Prohibitions
+
+The Licensee is strictly forbidden from engaging in the following actions:
+
+- **No Redistribution:** You cannot redistribute, publish, upload to public repositories (such as public GitHub repos), or make the underlying source code accessible to third parties.
+- **No Reselling:** You cannot resell, sub-license, rent, lease, or commercially exploit the Software source code as a standalone asset, template, module, or starter kit.
+- **No Sublicensing:** A single purchase covers one individual developer or organization. You cannot purchase one copy and distribute the source code across an entire external network of independent developers.
+
+#### 3. Intellectual Property
+
+The Software and all native source blueprints (including Kotlin modules, JSI bindings, and Express backend telemetry configurations) are and remain the exclusive intellectual property of the Licensor.
+
+#### 4. Termination
+
+Any breach of this License Agreement automatically terminates your rights under this license. Upon termination, you must immediately cease using the Software and securely delete all copies of the source code in your possession.
+
+#### 5. Limitation of Liability
+
+The Software is provided "as is", without warranty of any kind, express or implied. In no event shall the Licensor be liable for any claim, damages, or other liability arising from, out of, or in connection with the Software.
