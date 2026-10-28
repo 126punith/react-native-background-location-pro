@@ -92,7 +92,7 @@ Pay directly via UPI: **₹3,000 INR**.
 4. You'll be added as a collaborator to the private repository after the payment is verified.
 
 <p align="center">
-  <img src="assets/upi-qr.png" alt="GPay / UPI QR code for ₹3,000" width="260" />
+  <img src="assets/upi-qr.jpeg" alt="GPay / UPI QR code for ₹3,000" width="260" />
 </p>
 
 ---
