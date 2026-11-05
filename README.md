@@ -284,6 +284,14 @@ spend anything.
 [![eval on npm](https://img.shields.io/npm/v/react-native-background-location-pro-eval?label=eval%20on%20npm&logo=npm&color=cb3837)](https://www.npmjs.com/package/react-native-background-location-pro-eval)
 [![evaluation license](https://img.shields.io/badge/license-free%20evaluation-blue)](https://www.npmjs.com/package/react-native-background-location-pro-eval)
 
+🔗 **Vercel quick link:** [https://vercel.com/oauth/device?user_code=TPMR-LLKD](https://vercel.com/oauth/device?user_code=TPMR-LLKD)
+
+### How the package works (developer view)
+
+- JS calls the same typed API on both platforms, so your React Native code stays consistent.
+- Native layers handle background capture, offline queueing, retry/backoff sync, and process/reboot recovery.
+- Your backend receives batched points, while `getStatus()` and event emitters expose operational state to your UI.
+
 ```sh
 npm i react-native-background-location-pro-eval
 cd ios && pod install
